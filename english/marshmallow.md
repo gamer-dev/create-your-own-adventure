@@ -1,6 +1,6 @@
 Once upon a time many authors collaborated to make meaningless linked story.
 
-And one of the authors' favourite food was : [Click to Find out !] (Almonds/almonds.md)
+And one of the authors' favourite food was : [Click to Find out] (almonds/almonds.md)
 
 And that story was about [cricket](cricket/if-you-love-cricket/ifyoulovecricket.md)
 
